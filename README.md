@@ -1,6 +1,6 @@
 # 1mg-Scrapper
 
-The python script scrapes the data categorywise that fall under *coronvairus-prevention* in <a href='https://www.1mg.com/categories/coronavirus-prevention-925'>1mg.com</a>, transforms, cleans the extracted data and finally saves as a csv file.
+The python script scrapes the data categorywise that fall under *coronavirus-prevention* in <a href='https://www.1mg.com/categories/coronavirus-prevention-925'>1mg.com</a>, transforms, cleans the extracted data and finally saves as a csv file.
 
 The categories are:
 1. Masks
